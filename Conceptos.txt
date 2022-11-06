@@ -1,0 +1,8 @@
+Variables: Las variables son datos que se asignan para despues usarlos en un programa, una variable puede contener o unico dato en todo el programa o puede y cambiando. 
+Strings: Es una cadena de caracteres que no tienen un valor numerico. por ejemplo un nombre o una dirreccion
+Funciones (argumentos, return): es una secuncia de comandos que al ejecutarse retornan un resultado
+Declaraciones if: Es un comando que ejecuta una accion si se cumple una condicion y si no se cumple realiza otra accion
+Valores booleanos (true, false): Estos valores se utilizan para evaluar un afirmacion ej 1=2 (False), "Enero es un mes" (true), 1 < 5 (True)
+
+
+
