@@ -1,0 +1,10 @@
+for funcion que se usa para har un procedimiento repetidamente, se ingresa una variable con un valor inicial y se se debe saber el valor final de dicha variable. Ej:
+// hace el procedimiento mientras i sea menor que 100
+for (var i = 0 ; i < 100; i++ ){
+//	procedimiento
+}
+
+&& (Y) se utliza para que se cumplan mas de una condicion por ejemplo:
+si necesito saber las personas de buenos aires mayores de 18 seria (ciudad==="buenos aires") && (edad >18) (si se cumple es verdadero)
+|| (o) este operador sirve para definir que si se cumple una u otra exprecion el resultado es verdadero
+! (negacion) es oprador se utiliza para negar un condicion por ejemple 1 !== 2 (1 es distinto de 2)
