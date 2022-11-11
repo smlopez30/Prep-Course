@@ -1,0 +1,1 @@
+array Es una Matriz que puede contener diferentes tipos de datos ya sean numeros, string, boleanas, una funcion, una cadena de caracteres, etc. Se agrupa entre corchetes ej arreglo[8, true, 'hola', [1,2,3,4], [function], null, undefine, 105]
