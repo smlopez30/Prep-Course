@@ -1,0 +1,5 @@
+Objetos son contenedores de datos, donde a cada valor le asigno un porpiedad o clave y con la mima luego puedo acceder al valor en lugar de usar un indice como en los arreglos o las matrices
+Propiedades son el nombre al que le asigno un valor en un objeto
+Métodos es cuando guardo una funcion dentro de un objeto
+Bucle for…in es sirve para recorrer el objeto por cada clave-valor del mismo
+Notación de puntos vs notación de corchetes son formas de acceder a los valores de los objetos
