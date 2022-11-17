@@ -1,0 +1,2 @@
+prototype Los prototipos son un mecanismo mediante el cual los objetos en JavaScript heredan características entre sí.
+Constructors (de Clases) Son planillas que se crean para evitar la repeticion de datos en un objeto
